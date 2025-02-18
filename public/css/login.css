@@ -1,0 +1,24 @@
+* {
+  font-family: "ubuntu", sans-serif;
+  font-size: 16px;
+}
+
+body {
+  background-color: #DDD9D9;
+}
+
+.login {
+  border: 1px solid #274560;
+  background-color: white;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+#footer {
+  border: 1px solid red;
+  position: absolute;
+  bottom: 0;
+  widows: 100%;
+}
+
+/*# sourceMappingURL=login.css.map */

@@ -1,0 +1,61 @@
+idseccion,seccion,codigo
+1,Asamblea Universitaria,ASUN
+2,Consejo Universitario,CU
+3,Presidencia de la comisión organizadora,PCO
+4,Vicerrectorado Académico,VPAC
+5,Pronabec,PRONABEC
+6,Centro de Informática,CDI
+7,Centro de Idiomas,CI
+8,PsyEC,PsyEC
+9,Departamento Academico,DACA
+10,Vicerrectorado de Investigación,VPIN
+11,Defensoría Universitaria,DEUN
+12,Tribunal de Honor Universitario,THU
+13,Comisión Permanente de Fiscalización,CPF
+14,Órgano de Control Institucional,OCI
+15,Oficina de Asesoría Jurídica,OAJ
+16,Oficina de Planeamiento y Presupuesto,OPP
+17,Unidad de Planeamiento y Modernización,UPM
+18,Unidad de Presupuesto,UP
+19,Unidad Formuladora,UF
+20,Oficina de Cooperación y Relaciones Internacionales,OCRI
+21,Grados y titulos,GRTI
+22,Escuela de Posgrado,EPOS
+23,Oficina de Gestión de la Calidad,OGC
+24,Oficina de Comunicación e Imagen Institucional,OCII
+25,Dirección General de Administración,DIGA
+26,Unidad de Recursos Humanos,RH
+27,Unidad de Abastecimiento,ABAS
+28,Almacen,ALMA
+29,Unidad Ejecutora de Inversiones,UEIN
+30,Unidad de Contabilidad,CONTA
+31,Unidad de Tesorería,TESO
+32,Caja,CAJA
+33,Unidad de Servicios Generales,USG
+34,Oficina de Tecnologías de la Información,OTI
+35,Secretaría General,SG
+36,Archivo Central,AC
+37,Consejo de Facultad,COFA
+38,Decanato,DECA
+39,Dirección de Proyección Social y Extensión Cultural,DPSEC
+40,Dirección de Bienestar Universitario,DBU
+41,Biblioteca,BIBLIO
+42,Salud,SALUD
+43,Psicologia,PSICO
+44,Deporte y Recreación,DyR
+45,Arte,ARTE
+46,Servicios sociales,SS
+47,Comedor Universitario,COMU
+48,Dirección de Gestión de Asuntos Académicos,DIGAA
+49,Registro Academico,RA
+50,EPDEA,EPDEA
+51,Seguimiento y monitoreo de docentes,SMD
+52,Seguimiento al egresado y bolsa de trabajo,SeyBT
+53,Tutoria,TUTO
+54,Curricula,CUR
+55,Dirección de Admisión,DA
+56,Centro Preuniversitario,CEPRE
+57,Dirección de Centros de Producción de Bienes y Servicios  /*ÓRGANOS DEPENDIENTES DEL VICERRECTORADO DE INVESTIGACIÓN*/,DPByS
+58,Dirección de Incubadora de Empresas,DIE
+59,Dirección de Innovación y Transferencia Tecnológica,DITT
+60,Instituto de Investigación,ININ
